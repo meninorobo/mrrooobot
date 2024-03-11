@@ -6,7 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-  <img src="https://tenor.com/boAvF.gif">
+  <img src="https://tenor.com/boAvF.gif" alt="sim">
 
 <!---
 mrrooobot/mrrooobot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
